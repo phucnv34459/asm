@@ -133,6 +133,8 @@ function App() {
         <Route path='posts/:id' element={<PostDetail/>}/>
         <Route path='products' element={<ProductPageWebsite products={products} />} />
         <Route path='products/:id' element={<ProductDetail />} />
+        <Route path='sigins' element={<Signin/>} />
+        <Route path='sigups' element={<Signup/>} />
       </Route>
 
       <Route path="admin" element={<LayoutAdmin/>}>

@@ -22,7 +22,7 @@ const PostPage = ({posts ,onDeleteRemove}) => {
             <th scope="col">Tiêu đề</th>
             <th scope="col">Ảnh</th>
             <th scope="col">Nội dung</th>
-            <th scope="col"></th>
+            <th scope="col">Tác vụ</th>
           </tr>
         </thead>
         <tbody>

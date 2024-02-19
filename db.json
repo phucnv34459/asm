@@ -39,6 +39,13 @@
       "price": "1200",
       "description": "adfsf",
       "quantity": 10
+    },
+    {
+      "name": "Sản phẩm 3",
+      "image": {},
+      "price": "300",
+      "description": "Mô tả sản phẩm 3",
+      "id": "mcEtQe8"
     }
   ],
   "menus": [
@@ -78,7 +85,7 @@
     },
     {
       "id": "bd58",
-      "title": "Bài viết 3",
+      "title": "Bài viết 03",
       "image": "https://picsum.photos/300/300",
       "desc": "mô tả bài viết",
       "conten": "Nội dung bài viết 3"
@@ -101,6 +108,11 @@
       "email": "phucnv34459@gmail.com",
       "password": "$2a$10$xUTYyQOiUn8m3hedAAxJje8kdZc80GFkCGKGvMYwCF0ZvdYOJE2Ke",
       "id": 2
+    },
+    {
+      "email": "Dangkhaiphong2011@gmail.com",
+      "password": "$2a$10$NLivQWIT6rMNEPTkfj7eieSAa3qE.IsNp43DvhdFaXLrGAb1hFzP2",
+      "id": 3
     }
   ]
 }

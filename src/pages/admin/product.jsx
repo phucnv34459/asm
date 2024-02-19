@@ -23,7 +23,7 @@ const ProductPage = ({products, onRemove}) => {
             <th scope="col">Ảnh sản phẩm</th>
             <th scope="col">Tên sản phẩm</th>
             <th scope="col">Giá sản phẩm</th>
-            <th scope="col"></th>
+            <th scope="col">Tác vụ</th>
           </tr>
         </thead>
         <tbody>
