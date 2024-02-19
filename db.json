@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Bommer 1",
+      "image": "https://picsum.photos/300/300",
+      "price": "400",
+      "description": "mô tả bommer 1",
+      "quantity": 10
+    },
+    {
+      "id": "3",
+      "name": "Bommer 2",
+      "image": "https://picsum.photos/300/300",
+      "price": "300",
+      "description": "bommer 2",
+      "quantity": 10
+    },
+    {
+      "id": "4",
+      "name": "Xiaomi Watch1",
+      "image": "https://picsum.photos/300/300",
+      "price": "100",
+      "description": "xiaomi",
+      "quantity": 10
+    },
+    {
+      "id": "5",
+      "name": "Bommer 1 update",
+      "image": "https://picsum.photos/300/300",
+      "price": "123",
+      "description": "đạt ngàn",
+      "quantity": 10
+    },
+    {
+      "id": "6",
+      "name": "Product A update",
+      "image": "https://picsum.photos/300/300",
+      "price": "1200",
+      "description": "adfsf",
+      "quantity": 10
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "label": "Thống kê sản phẩm",
+      "path": "dashboard",
+      "icon": " <svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    },
+    {
+      "id": "2",
+      "label": "Quản lí sản phẩm",
+      "path": "/admin/products",
+      "icon": " <svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    },
+    {
+      "id": "3",
+      "label": "Quản lí bài viết",
+      "path": "/admin/posts",
+      "icon": " <svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Bài viết 01",
+      "image": "https://picsum.photos/300/300",
+      "desc": "mô tả bài viết",
+      "conten": "nội dung bài viết 1"
+    },
+    {
+      "id": "2",
+      "title": "Bài viết  02",
+      "image": "https://picsum.photos/300/300",
+      "desc": "mô tả bài viết",
+      "conten": "nội dung bài viết 2"
+    },
+    {
+      "id": "bd58",
+      "title": "Bài viết 3",
+      "image": "https://picsum.photos/300/300",
+      "desc": "mô tả bài viết",
+      "conten": "Nội dung bài viết 3"
+    },
+    {
+      "id": "9c9f",
+      "title": "Bài viết 04",
+      "image": "https://picsum.photos/300/300",
+      "desc": "mô tả bài viết",
+      "conten": "Nội dung bài viết 4"
+    }
+  ],
+  "users": [
+    {
+      "email": "phucnvph34459@fpt.edu.vn",
+      "password": "$2a$10$1x.EFWhKavQKqy481khjqeCAR.eRmS8lye.5PQJH2DBQx6aBNlfHK",
+      "id": 1
+    },
+    {
+      "email": "phucnv34459@gmail.com",
+      "password": "$2a$10$xUTYyQOiUn8m3hedAAxJje8kdZc80GFkCGKGvMYwCF0ZvdYOJE2Ke",
+      "id": 2
+    }
+  ]
+}
